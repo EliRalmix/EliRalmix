@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on codings languages 
-- 📫 How to reach me savingdocumentformyself@gmail.com
+- 📫 How to reach me (search)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Believe in miracle believe in mystery 
 
