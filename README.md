@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EliRalmix
+- 👋 Hi, I’m @EthanGem
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on codings languages 
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: Believe in miracle believe in mystery 
 
 <!---
-EliRalmix/EliRalmix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EthanGem/EthanGem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
